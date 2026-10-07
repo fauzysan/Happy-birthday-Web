@@ -1,0 +1,8 @@
+{
+  "name": "nadya-birthday",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An animated birthday universe for Nadya Ulya Octavianisa",
+  "scripts": {"dev": "node server.mjs", "build": "node build.mjs", "start": "node server.mjs"},
+  "engines": {"node": ">=20"}
+}
